@@ -37,7 +37,7 @@ fn main() {
 fn print_help() {
     println!("Usage: yes [STRING]...");
     println!("or   : yes OPTIONS");
-    println!("Repeatedly output a line wiht all specified STRING(s), or 'y'");
+    println!("Repeatedly output a line with all specified STRING(s), or 'y'");
     println!("");
     println!("       -h, --help    : display this help and exit");
     println!("       -v, --version : output version information and exit");
